@@ -4,7 +4,7 @@
 .section{
 	width: 100%;
 	height: 695px;
-	background: url(images/30.jpg);
+	background: url(30.jpg);
 	background-size: cover;
 }
 .overlay{
